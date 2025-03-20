@@ -84,3 +84,11 @@
 [03:43:25] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:41336|slyer1] -> UpstreamBridge has disconnected
 [03:43:25] [Netty Worker IO Thread #1/INFO]: [slyer1] disconnected with: Proxy lost connection to server.
 [03:43:25] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:41336|slyer1] <-> DownstreamBridge <-> [lobby] has disconnected
+[03:51:50] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:44442]: Connected via websocket
+[03:51:50] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:44442]: Origin header is https://slyerv.github.io
+[03:51:50] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:44442]: Logged in as 'slyer1'
+[03:51:50] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:44442|slyer1] -> UpstreamBridge has connected
+[03:51:50] [Netty Worker IO Thread #0/INFO]: [slyer1|/[0:0:0:0:0:0:0:1%0]:44442] <-> ServerConnector [lobby] has connected
+[03:52:05] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:44442|slyer1] -> UpstreamBridge has disconnected
+[03:52:05] [Netty Worker IO Thread #0/INFO]: [slyer1] disconnected with: Proxy lost connection to server.
+[03:52:05] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:44442|slyer1] <-> DownstreamBridge <-> [lobby] has disconnected

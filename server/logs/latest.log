@@ -240,3 +240,7 @@
 [03:41:49] [Server thread/INFO]: [slyer1: Set own game mode to Survival Mode]
 [03:43:25] [Server thread/INFO]: slyer1 lost connection: Disconnected
 [03:43:25] [Server thread/INFO]: slyer1 left the game.
+[03:51:50] [Thread-10/INFO]: UUID of player slyer1 is 8e3e0a0e-4792-3a3e-a150-6aa256e97bb3
+[03:51:50] [Server thread/INFO]: slyer1[/[0:0:0:0:0:0:0:1]:54570] logged in with entity id 1978 at ([world]-643.1999699993103, 63.0, -328.6379491629938)
+[03:52:05] [Server thread/INFO]: slyer1 lost connection: Disconnected
+[03:52:05] [Server thread/INFO]: slyer1 left the game.
